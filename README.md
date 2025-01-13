@@ -47,10 +47,10 @@ This project demonstrates the use of the **BM25** model for document retrieval o
 
 Example:
 
-    ```
-    1 0 AP880212-0161 0 1 0 AP880216-0139 1
+  ```
+  1 0 AP880212-0161 0 1 0 AP880216-0139 1
 
-    ```
+  ```
 
 ### Output:
 
